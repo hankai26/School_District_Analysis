@@ -8,12 +8,25 @@ This project is to use Jypyter Notebook as well as the Pandas library combining 
 Based on the requirements of the school board, the district's key metrics and each school metrics were prepared to evaluate how factors affect the school performance, like budget per student, school size and school type. More important, to make necessary revision to the 9th grade scores in Thomas High School, it's possible to figure out how the critical change affect those analysis results. Logical and comparison operators were applied offen in the analyzing process to select and revise data. This project addresses some findings as below.
 
 - How is the district summary affected?
-
+![district_ori](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/district_original.png)
+![district_challenge](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/district_challenge.png)
 
 - How is the school summary affected?
 
+![school_sum_THS_ori](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/school_sum_THS_original.png)
+![school_sum_THS_challenge](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/school_sum_THS_challenge.png)
+
+![school_sum_first5_ori](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/school_sum_first5_original.png)
+![school_sum_first5_challenge](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/school_sum_first5_challenge.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+![Top_ori](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/TopSchools_original.png)
+![Top_challenge](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/TopSchools_challenge.png)
+
+![BottomSchools_ori](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/BottomSchools_original.png)
+![BottomSchools_challenge](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/BottomSchools_challenge.png)
+
 
 - How does replacing the ninth-grade scores affect the following:
     Math and reading scores by grade
