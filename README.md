@@ -8,6 +8,7 @@ This project is to use Jypyter Notebook as well as the Pandas library combining 
 Based on the requirements of the school board, the district's key metrics and each school metrics were prepared to evaluate how factors affect the school performance, like budget per student, school size and school type. More important, to make necessary revision to the 9th grade scores in Thomas High School, it's possible to figure out how the critical change affect those analysis results. Logical and comparison operators were applied offen in the analyzing process to select and revise data. This project addresses some findings as below.
 
 - How is the district summary affected?
+
 ![district_ori](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/district_original.png)
 ![district_challenge](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/district_challenge.png)
 
@@ -29,18 +30,35 @@ Based on the requirements of the school board, the district's key metrics and ea
 
 
 - How does replacing the ninth-grade scores affect the following:
-    Math and reading scores by grade
-    Scores by school spending
-    Scores by school size
-    Scores by school type
+    - Math and reading scores by grade
+
+    ![math_THS_ori](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/math_THS_original.png)
+    ![math_THS_challenge](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/math_THS_challenge.png)
+
+    ![reading_THS_ori](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/reading_THS_original.png)
+    ![reading_THS_challenge](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/reading_THS_challenge.png)
+    
+    - Scores by school spending
+    ![spend_sum_ori](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/spending_sum_original.png)
+    ![spend_sum_challenge](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/spending_sum_challenge.png)
+
+    - Scores by school size
+    ![size_sum_ori](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/size_sum_original.png)
+    ![size_sum_challenge](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/size_sum_challenge.png)
+    
+    - Scores by school type
+    ![type_sum_ori](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/type_sum_ori.png)
+    ![type_sum_challenge](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/type_sum_challenge.png)
 
 *** There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data 
 
 
-# Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+# Summary
+The reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. The subject revision lead to slight change to the 
+
+
+Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 *** There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced 
-
-
 
 
 A high-level snapshot of the district's key metrics, presented in a table format
