@@ -10,9 +10,10 @@ Based on the requirements of the school board, the district's key metrics and ea
 To remove the math and reading scores in 9th grade at Thomas High School (THS) would slightly reduce the average scores as well as the passing pencentage in the entire school disctrict. The overall passing percentage for this school disctrict was reduced from 65.2% to 64.9%.
 
 ![district_ori](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/district_original.png)
-<center>Figure 1. School District Summary without Score Revision at THS</center>
+<p align="center">Figure 1. School District Summary without Score Revision at THS</p>
+
 ![district_challenge](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/district_challenge.png)
-<center>Figure 2. School District Summary with Score Revision at THS</center>
+Figure 2. School District Summary with Score Revision at THS
 
 
 - How is the school summary affected?
