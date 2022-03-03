@@ -1,4 +1,4 @@
-# School District Analysis Applying 
+# School District Analysis 
 
 # Overview of the school district analysis 
 This project is to use Jypyter Notebook as well as the Pandas library combining Python coding to perform the analysis on school and student data in csv files. This analysis prepared the district summary, the school summary, and the school performance evaluation in average scores and passing rates. Multiple programming tools including methods from Panda and NumPy modules were applied to retrieve information, change the data and conduct arithmetic calculations. Further, for special needs this analysis selected the exact information, revised specific numbers in the dataset and recalculated the student scores. The analysis allows us to show how these specific changes affected the overall analysis.
