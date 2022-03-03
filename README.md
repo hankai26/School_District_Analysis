@@ -35,15 +35,19 @@ Figure 5 and Figure 6 show the top five schools based on the overall passing per
     - Math and reading scores by grade
     The average math and reading score in 9th grade at THS were replaced by NaN and became unavailable after the score was replaced. The scores in other grades remain the same.
     ![math_THS_ori](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/math_THS_original.png)
+    
     **Figure 7. Math Scores by Grade without Score Replacement at THS**
 
     ![math_THS_challenge](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/math_THS_challenge.png)
+    
     **Figure 8. Math Scores by Grade with Score Replacement at THS**
 
     ![reading_THS_ori](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/reading_THS_original.png)
+    
     **Figure 9. Reading Scores by Grade without Score Replacement at THS**
 
     ![reading_THS_challenge](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/reading_THS_challenge.png)
+    
     **Figure 10. Reading Scores by Grade with Score Replacement at THS**
     
     - Scores by school spending
