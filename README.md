@@ -34,13 +34,17 @@ Figure 5 and Figure 6 show the top five schools based on the overall passing per
 - Replacing the ninth-grade scores affect the following results:
     - Math and reading scores by grade
     The average math and reading score in 9th grade at THS were replaced by NaN and became unavailable after the score was replaced. The scores in other grades remain the same.
-    ![math_THS_ori](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/math_THS_original.png)<p align="center">**Figure 7. Math Scores by Grade without Score Replacement at THS**</p>
+    ![math_THS_ori](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/math_THS_original.png)
+    **Figure 7. Math Scores by Grade without Score Replacement at THS**
 
-    ![math_THS_challenge](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/math_THS_challenge.png)<p align="center">**Figure 8. Math Scores by Grade with Score Replacement at THS**</p>
+    ![math_THS_challenge](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/math_THS_challenge.png)
+    **Figure 8. Math Scores by Grade with Score Replacement at THS**
 
-    ![reading_THS_ori](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/reading_THS_original.png)<p align="center">**Figure 9. Reading Scores by Grade without Score Replacement at THS**</p>
+    ![reading_THS_ori](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/reading_THS_original.png)
+    **Figure 9. Reading Scores by Grade without Score Replacement at THS**
 
-    ![reading_THS_challenge](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/reading_THS_challenge.png)<p align="center">**Figure 10. Reading Scores by Grade with Score Replacement at THS**</p>
+    ![reading_THS_challenge](https://github.com/hankai26/School_District_Analysis/blob/main/Resources/reading_THS_challenge.png)
+    **Figure 10. Reading Scores by Grade with Score Replacement at THS**
     
     - Scores by school spending
     The budget per student at THS is $638, calculated earlier in the school summary table (Figure 3 & 4). Comparing Figure 11 and Figure 12 we could notice that the average math and reading scores for the Schools with spending range of $631 - $645 were slightly different with and without score replacing at THS, changing from 78.52 and 81.62 to 78.50 and 81.64, respectively.
